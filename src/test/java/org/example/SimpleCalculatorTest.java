@@ -38,7 +38,7 @@ class SimpleCalculatorTest {
     {
         //assertEquals(false,calculator.isEven(7));
         //assertEquals(true,calculator.isEven(8));
-        assertTrue(calculator.isEven(7));
+        assertTrue(calculator.isEven(8));
         assertFalse(calculator.isEven(7));
     }
 
