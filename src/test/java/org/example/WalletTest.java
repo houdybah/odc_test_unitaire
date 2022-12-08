@@ -6,6 +6,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class WalletTest {
 
+
+    
     @Test
     public void testWalletCreated()
     {
